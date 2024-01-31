@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Just delete node_modules and package-lock.json! npm install vs npm clean-install"
-date:   2024-02-1 19:55:06 +0200
+date:   2024-02-01 19:55:06 +0200
 categories: jekyll update
 ---
 `npm install` and `npm clean-install` are two different commands used in Node.js projects to manage dependencies defined in the package.json file. They have distinct behaviors:
